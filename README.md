@@ -14,12 +14,6 @@
   <img src="docs/demo.png" width="600px" alt="Agent Pilot" />
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/ge2ZzDGu9e"><img src="https://img.shields.io/discord/1169291612816420896?style=flat&label=Discord" alt="Discord"></a>
-  <a href="https://twitter.com/AgentPilotAI"><img src="https://img.shields.io/twitter/follow/AgentPilotAI" alt="Twitter"></a>
-  <a href="https://github.com/jbexta/AgentPilot/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-AGPL--3.0-blue" alt="License"></a>
-</p>
-
 Agent Pilot is a generative, fully customizable desktop application. With a flexible plugin system and schema-driven UI. Includes multiple prebuilt plugins ready to use.
 
 Create projects with a coding agent (Claude Code), keep chats organized per project.
